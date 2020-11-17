@@ -14,7 +14,7 @@ Before you begin, make sure your development environment includes [.NET Core 3.0
 
 ```
 git clone https://github.com/PDFTron/webviewer-blazor-wasm-sample.git
-cd webviewer-blazor-sample
+cd webviewer-blazor-wasm-sample
 npm install
 ```
 
@@ -24,7 +24,7 @@ npm install
 npm start
 ```
 
-Navigate to `https://localhost:5001/webviewer`
+Navigate to `https://localhost:5000`
 
 ## WebViewer APIs
 
